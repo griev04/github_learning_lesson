@@ -1,2 +1,2 @@
-# github_learning_lesson
+# GitHub Learning Lesson
 Introduction to GitHub lesson
